@@ -3,6 +3,7 @@ LdapAuth
 
 一个让 Typecho 支持 LDAP 身份验证的插件。
 
+![image.png](https://s2.loli.net/2024/04/19/Lc6hkHXzNFiaTEZ.png)
 
 ## 安装说明
 
